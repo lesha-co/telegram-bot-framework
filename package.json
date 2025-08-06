@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot-framework",
+  "name": "telegram-bot-framework-state-machine",
   "version": "1.0.0",
   "main": "dist/index.js",
   "type": "module",

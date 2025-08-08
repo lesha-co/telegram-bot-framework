@@ -1,4 +1,4 @@
-import pipe from "callback-to-async-generator";
+import pipe from "@leshenka/callback-to-async-generator";
 
 type Key = string | number;
 

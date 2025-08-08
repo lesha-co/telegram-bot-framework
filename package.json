@@ -1,5 +1,5 @@
 {
-  "name": "@aleshenka/telegram-bot-framework",
+  "name": "@leshenka/telegram-bot-framework",
   "version": "2.0.1",
   "main": "dist/index.js",
   "type": "module",

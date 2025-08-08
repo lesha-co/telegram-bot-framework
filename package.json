@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot-framework-state-machine",
+  "name": "@aleshenka/telegram-bot-framework",
   "version": "2.0.0",
   "main": "dist/index.js",
   "type": "module",
@@ -11,9 +11,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@types/node-telegram-bot-api": "^0.64.10",
     "callback-to-async-generator": "^1.0.0",
-    "node-telegram-bot-api": "^0.66.0",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.10",
     "typescript": "^5.9.2"
   }
 }

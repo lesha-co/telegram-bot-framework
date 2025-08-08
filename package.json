@@ -11,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "callback-to-async-generator": "^1.0.0",
+    "@leshenka/callback-to-async-generator": "^1.0.2",
     "node-telegram-bot-api": "^0.66.0"
   },
   "publishConfig": {
